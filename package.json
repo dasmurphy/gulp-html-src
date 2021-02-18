@@ -16,22 +16,22 @@
     "test": "mocha"
   },
   "dependencies": {
-    "vinyl": "~0.2.3",
-    "through2": "~0.4.1",
     "cheerio": "~0.13.1",
-    "extend": "~1.2.1",
-    "q": "~1.0.1"
+    "extend": "^3.0.2",
+    "q": "~1.0.1",
+    "through2": "~0.4.1",
+    "vinyl": "~0.2.3"
   },
   "devDependencies": {
-    "mocha": "*",
     "chai": "*",
-    "gulp-util": "~2.2.14"
+    "gulp-util": "~2.2.14",
+    "mocha": "*"
   },
   "engines": {
     "node": ">= 0.10.0"
   },
   "keywords": [
-    "gulp", 
+    "gulp",
     "html",
     "script",
     "link",
