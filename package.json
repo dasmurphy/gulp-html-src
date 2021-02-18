@@ -6,6 +6,7 @@
   "repository": "git://github.com/dasurphy/gulp-html-src.git",
   "homepage": "http://github.com/dasurphy/gulp-html-src",
   "author": "Dave Brotherstone",
+  "contributors": ["Torsten Stelling"],
   "licenses": [
     {
       "type": "MIT",
