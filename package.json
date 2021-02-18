@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Gulp plugin to accept HTML input, and output the linked JavaScript (script tags) and CSS (link tags)",
   "main": "./index.js",
-  "repository": "git://github.com/davegb3/gulp-html-src.git",
-  "homepage": "http://github.com/davegb3/gulp-html-src",
+  "repository": "git://github.com/dasurphy/gulp-html-src.git",
+  "homepage": "http://github.com/dasurphy/gulp-html-src",
   "author": "Dave Brotherstone",
   "licenses": [
     {
-      "type" : "MIT",
-      "url" : "http://github.com/davegb3/gulp-html-src/raw/master/LICENSE"
+      "type": "MIT",
+      "url": "http://github.com/dasurphy/gulp-html-src/raw/master/LICENSE"
     }
   ],
   "scripts": {
